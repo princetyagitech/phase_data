@@ -7,5 +7,5 @@ This folder contains data from 25th March to 31st May related to covid pandemic.
 * Detailed analytics and insights for the following can be found at : 
 * Data can be freely used for research puroposes after giving citations to the author.
 * Authors:
-  Prince Tyagi
-  Naman Goyal
+  + Prince Tyagi
+  + Naman Goyal
